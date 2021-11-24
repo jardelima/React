@@ -1,0 +1,12 @@
+{
+    "git.enabled": false,
+    "files.exclude": {
+        "appreact/node_modules": true,
+        ".vscode": true,
+        "appreact/.gitignore": true,
+        "appreact/package.json": true,
+        "appreact/package-lock.json": true,
+        "appreact/public": true
+    }
+}
+  
